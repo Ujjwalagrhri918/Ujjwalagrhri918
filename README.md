@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Ujjwal Agrahari</h1>
 <h3 align="center">⚡ AI Enthusiast | Web Developer | Competitive Programmer | Embedded Systems Explorer ⚙️</h3>
 
-<img align="right" alt="Coding" width="350" height="270" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="350" height="265" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
